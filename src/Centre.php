@@ -19,4 +19,15 @@ class Centre
     {
         return $a + $b;
     }
+
+    /**
+     * 计算两个参数运算
+     * @param int $a
+     * @param int $b
+     * @return int
+     */
+    public function sub(int $a, int $b): int
+    {
+        return $a - $b;
+    }
 }

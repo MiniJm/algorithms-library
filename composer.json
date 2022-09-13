@@ -1,0 +1,19 @@
+{
+    "name": "lz/algorithms-library",
+    "description": "This php algorithms library，such as calculating certain timestamp, array conversion, etc",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lz\\AlgorithmsLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MiniJm",
+            "email": "844048869@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
